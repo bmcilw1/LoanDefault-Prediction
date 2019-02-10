@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+bin/
+lib/
+pyvenv.cfg
